@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+h1 {
+  text-align: center;
+  color: blueviolet;
+  margin: 10px;
+}
+
+a {
+  text-align: center;
+}
