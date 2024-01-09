@@ -4,7 +4,8 @@ body {
 h1 {
   text-align: center;
   color: blueviolet;
-  margin: 10px;
+  margin: 20px;
+  font-style: bold;
 }
 
 a {
